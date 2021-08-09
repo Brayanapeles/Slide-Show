@@ -1,8 +1,10 @@
 const images = [
-    { 'id': '1', 'url':'https://pixnio.com/free-images/2018/09/22/2018-09-22-00-00-27.jpg' },
-    { 'id': '2', 'url':'https://pixnio.com/free-images/2021/03/11/2021-03-11-12-30-05-1800x1200.jpg' },
-    { 'id': '3', 'url':'https://cdn.pixabay.com/photo/2017/10/15/06/03/sneakers-2852607_1280.jpg' },
-    { 'id': '4', 'url':'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ynL1pR9XtcMXvqtn96chpn33c60uNJi77g&usqp=CAU' },
+    { 'id': '1', 'url':'https://p2.piqsels.com/preview/515/906/355/kittens-cats-pet-cute.jpg' },
+    { 'id': '2', 'url':'https://p1.pxfuel.com/preview/908/725/314/cat-cat-family-cute-pet-kitty-little.jpg' },
+    { 'id': '3', 'url':'https://i0.hippopx.com/photos/529/582/333/dog-bernese-mountain-dog-animal-big-dog-preview.jpg' },
+    { 'id': '4', 'url':'https://cdn.pixabay.com/photo/2020/07/01/19/52/pets-5360761_1280.jpg' },
+    { 'id': '5', 'url':'https://p1.pxfuel.com/preview/796/80/896/puppy-brown-sausage-shoe-leather-tasty.jpg' },
+    { 'id': '6', 'url':'https://pixnio.com/free-images/2021/03/11/2021-03-11-12-42-46-1800x1200.jpg' },
 ]
 
 const containerItems = document.querySelector('#container-items');
